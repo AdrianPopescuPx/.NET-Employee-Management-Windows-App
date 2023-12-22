@@ -1,0 +1,11 @@
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\bin\Debug\Employee Management.exe.config
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\bin\Debug\Employee Management.exe
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\bin\Debug\Employee Management.pdb
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\obj\Debug\Employee Management.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\obj\Debug\Employee_Management.Employee.resources
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\obj\Debug\Employee_Management.Login.resources
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\obj\Debug\Employee_Management.Properties.Resources.resources
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\obj\Debug\Employee Management.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\obj\Debug\Employee Management.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\obj\Debug\Employee Management.exe
+C:\Users\adria\OneDrive\Desktop\.NET-Employee-Management-Windows-App\Employee Management\Employee Management\obj\Debug\Employee Management.pdb
